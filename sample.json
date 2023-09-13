@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": "001",
+            "name": "disposible",
+            "desc": [
+                "very good product"
+            ],
+            "brand": "packspod",
+            "price": "5.99",
+            "categories": [
+                "nicotine.disposible"
+            ],
+            "imgs": [
+                "abcd",
+                "efgs"
+            ],
+            "variations": [
+                {
+                    "id": "v001",
+                    "keys": [
+                        "FLAVOR.MINT",
+                        "SIZE.5000",
+                        "QTY.PCS"
+                    ],
+                    "desc": [
+                        "very good product"
+                    ],
+                    "price": "6.99",
+                    "imgs": [
+                        "abcd",
+                        "efgs"
+                    ],
+                    "isProduct": true
+                }
+            ],
+            "isProduct": false
+        }
+    ]
+}
